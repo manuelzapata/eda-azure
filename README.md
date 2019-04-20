@@ -1,2 +1,1 @@
-# eda-azure
-Event-drive architecture examples in Azure
+# Event-drive architecture examples in Azure
